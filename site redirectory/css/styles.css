@@ -1,0 +1,45 @@
+body
+{
+	margin-bottom:80px;
+	background-image: url(Instinct.gif);
+	background-repeat:no-repeat;
+	background-size:100%;
+	background-color:rgb(32,32,32);
+}
+
+a:hover
+{
+	color:black;
+	font-style:none;
+}
+.jumbotron
+{
+	background-color:white;
+	opacity: .9;
+}
+
+.page-header
+{
+	margin-top:0;
+}
+
+.nav:hover
+{
+	color:yellow;
+}
+
+.col-md-3
+{
+	background-color:white;
+	opacity:.9;
+}
+
+.panel-body
+{
+	padding-top:0;
+}
+
+.featuredImg
+{
+	margin-bottom: 15px;
+}
